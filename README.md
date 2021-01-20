@@ -31,4 +31,4 @@
 
 </details>
 
-[elli]: https://top.gg/bots/763778168825053254
+[elli]: https://top.gg/bot/763778168825053254
