@@ -9,8 +9,6 @@
 
 ---
 
-<summary>:zap: GitHub Stats</summary>
-
 <img align="left" alt="BumoGaming's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BumoGaming&show_icons=true&hide_border=true" />
 
 [elli]: https://top.gg/bot/763778168825053254
