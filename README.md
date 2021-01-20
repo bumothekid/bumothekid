@@ -2,9 +2,8 @@
 
 ## Something About Me!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🔭 I have my own Discord Bot: [Elli][elli]
 - 🌱 I’m currently learning C#
-- 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
@@ -31,3 +30,5 @@
   <img align="left" alt="BumoGaming's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BumoGaming&show_icons=true&hide_border=true" />
 
 </details>
+
+[elli]: https://top.gg/bots/763778168825053254
