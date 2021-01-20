@@ -5,7 +5,7 @@
 - 🔭 I have my own Discord Bot: [Elli][elli]
 - 🌱 I’m currently learning C#
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: If you see this you're Cool
 
 ---
 
