@@ -9,6 +9,10 @@
 
 ---
 
+[![Discord Bots](https://top.gg/api/widget/763778168825053254.svg)](https://top.gg/bot/763778168825053254)
+
+---
+
 <img align="left" alt="BumoGaming's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BumoGaming&show_icons=true&hide_border=true" />
 
 [elli]: https://top.gg/bot/763778168825053254
