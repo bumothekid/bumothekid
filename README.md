@@ -3,7 +3,7 @@
 ## Something About Me!
 
 - 🔭 I have my own Discord Bot: [Elli][elli]
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C# and HTML
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: If you see this you're Cool
 
