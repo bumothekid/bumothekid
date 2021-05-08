@@ -7,8 +7,8 @@ I'm currently learning the programming language swift. At the moment I can 2 pro
 
 <img src="https://img.shields.io/badge/bumothekid%231711-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BumoGaming&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-![Bumo's github stats](https://github-readme-stats.vercel.app/api?username=BumoGaming&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BumoGaming&show_icons=true&theme=dracula&hide=prs,contribs)](https://github.com/anuraghazra/github-readme-stats)
+![Bumo's github stats](https://github-readme-stats.vercel.app/api?username=BumoGaming&show_icons=true&theme=dracula&hide=prs,contribs)
 
 [//]: # "## Something About Me!"
 
