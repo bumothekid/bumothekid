@@ -1,4 +1,4 @@
-# Hey, everyone I'm Bumo
+# Hey, everyone I'm Bumo aka David
 
 ## About me
 I'm currently 14 years-old and from Germany. I'm mainly working as Discord Bot Developer. 
