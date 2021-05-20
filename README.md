@@ -10,9 +10,6 @@ I'm currently learning the programming language swift. At the moment I can 2 pro
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BumoGaming&show_icons=true&theme=dracula&hide=prs,contribs)](https://github.com/anuraghazra/github-readme-stats)
 ![Bumo's github stats](https://github-readme-stats.vercel.app/api?username=BumoGaming&show_icons=true&theme=dracula&hide=prs,contribs)
 
-## The last song I listened to
-[https://spotify-widget.vercel.app/current/i915ac4nlns3kd9xb6jnyf871]
-
 [//]: # "## Something About Me!"
 
 [//]: # "- 🔭 I have my own Discord Bot: [Elli][elli]"
