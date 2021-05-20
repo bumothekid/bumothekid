@@ -11,7 +11,7 @@ I'm currently learning the programming language swift. At the moment I can 2 pro
 ![Bumo's github stats](https://github-readme-stats.vercel.app/api?username=BumoGaming&show_icons=true&theme=dracula&hide=prs,contribs)
 
 ## The last song I listened to
-[![spotify](https://npaas.vercel.app/api/spotify)](https://open.spotify.com/user/i915ac4nlns3kd9xb6jnyf871)
+[![spotify](https://spotify-widget.vercel.app/current/i915ac4nlns3kd9xb6jnyf871)](https://open.spotify.com/user/i915ac4nlns3kd9xb6jnyf871)
 
 [//]: # "## Something About Me!"
 
