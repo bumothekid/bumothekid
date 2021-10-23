@@ -1,12 +1,7 @@
-# Hey, everyone I'm Bumo
 
-## About me
-I'm currently 14 years-old and from Germany. I'm mainly working as Discord Bot Developer. 
-
-I'm currently learning the programming language swift. At the moment I can 2 programming languages (Python, C#)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BumoGaming&show_icons=true&theme=dracula&hide=prs,contribs)](https://github.com/anuraghazra/github-readme-stats)
-![Bumo's github stats](https://github-readme-stats.vercel.app/api?username=BumoGaming&show_icons=true&theme=dracula&hide=prs,contribs)
+[//] [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BumoGaming&show_icons=true&theme=dracula&hide=prs,contribs)]]
+[//](https://github.com/anuraghazra/github-readme-stats)
+[//] [![Bumo's github stats](https://github-readme-stats.vercel.app/api?username=BumoGaming&show_icons=true&theme=dracula&hide=prs,contribs)]
 
 [//]: # "## Something About Me!"
 
