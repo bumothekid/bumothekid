@@ -1,7 +1,7 @@
 
-[//] [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BumoGaming&show_icons=true&theme=dracula&hide=prs,contribs)]]
-[//](https://github.com/anuraghazra/github-readme-stats)
-[//] [![Bumo's github stats](https://github-readme-stats.vercel.app/api?username=BumoGaming&show_icons=true&theme=dracula&hide=prs,contribs)]
+[//]: # "[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BumoGaming&show_icons=true&theme=dracula&hide=prs,contribs)]]"
+[//]: # "(https://github.com/anuraghazra/github-readme-stats)"
+[//]: # "[![Bumo's github stats](https://github-readme-stats.vercel.app/api?username=BumoGaming&show_icons=true&theme=dracula&hide=prs,contribs)]"
 
 [//]: # "## Something About Me!"
 
