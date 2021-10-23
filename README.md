@@ -1,18 +1,19 @@
+### Hi there 👋
 
-[//]: # "[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BumoGaming&show_icons=true&theme=dracula&hide=prs,contribs)]]"
-[//]: # "(https://github.com/anuraghazra/github-readme-stats)"
-[//]: # "[![Bumo's github stats](https://github-readme-stats.vercel.app/api?username=BumoGaming&show_icons=true&theme=dracula&hide=prs,contribs)]"
+![Metrics](https://github.com/BumoGaming/BumoGaming/blob/main/github-metrics.svg)
 
-[//]: # "## Something About Me!"
+<!--
+![Metrics](https://github-readme-stats.vercel.app/api?username=BumoGaming&show_icons=true&hide_border=true&bg_color=000000&title_color=fff&text_color=6a6a6a&icon_color=79ff97)
+![Metrics](https://metrics.lecoq.io/BumoGaming?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FBerlin)
+**BumoGaming/BumoGaming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
 
-[//]: # "- 🔭 I have my own Discord Bot: [Elli][elli]"
-[//]: # "- 🌱 I’m currently learning C# and HTML"
-[//]: # "- 🥅 2021 Goals: Contribute more to Open Source projects"
-[//]: # "- ⚡ Fun fact: If you see this you're Cool"
-[//]: # "---"
-
-[//]: # "[![Discord Bots](https://top.gg/api/widget/763778168825053254.svg)](https://top.gg/bot/763778168825053254)"
-
-[//]: # "---"
-
-[//]: # "[elli]: https://top.gg/bot/763778168825053254"
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
