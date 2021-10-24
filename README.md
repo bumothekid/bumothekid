@@ -3,8 +3,8 @@
 <!--![Metrics](https://github.com/BumoGaming/BumoGaming/blob/main/github-metrics.svg)-->
 
 
-![Metrics](https://github-readme-stats.vercel.app/api?username=BumoGaming&show_icons=true&hide_border=true&bg_color=000000&title_color=fff&text_color=6a6a6a&icon_color=79ff97)
-![Metrics](https://metrics.lecoq.io/BumoGaming?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FBerlin)
+![Metrics](https://github-readme-stats.vercel.app/api?username=bumothekid&show_icons=true&hide_border=true&bg_color=000000&title_color=fff&text_color=6a6a6a&icon_color=79ff97)
+![Metrics](https://metrics.lecoq.io/bumothekid?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FBerlin)
 **BumoGaming/BumoGaming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 <!--
