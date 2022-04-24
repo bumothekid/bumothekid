@@ -3,7 +3,11 @@
 <h2>📩 Connect with me: </h2>
 
 [<img align="left" alt="Discord" width="26px" src="./img/discord.svg" style="padding-right:10px;" />](bumothekid#6531)
+[<img align="left" alt="Stack Overflow" width="26px" src="./img/stackoverflow.svg" style="padding-right:10px;" />](https://stackoverflow.com/users/17286142/bumo)
+
+<!--
 [<img align="left" alt="Stack Overflow" width="22px" src="./img/stack-overflow.svg" style="padding-right:10px;" />](https://stackoverflow.com/users/17286142/bumo)
+-->
 
 <br>
 
