@@ -33,11 +33,14 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-<h2>⚡️ Other information: </h2>
+<h2>⚡️ Github Stats: </h2>
   
+<img align="left" alt="bumothekid's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bumothekid&count_private=true&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25"/>
+
+<!--
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="bumothekid's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bumothekid&count_private=true&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25"/>
+  <img align="left" alt="bumothekid's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bumothekid&count_private=true&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25"/>nm
 
-</details>
+</details>-->
