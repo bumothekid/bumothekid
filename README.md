@@ -2,8 +2,9 @@
 
 <h2>📩 Connect with me via: </h2>
 
+[<img align="left" alt="bumothekid#6531" width="34px" src="./img/mail.svg" style="padding-right:10px;" />](mailto:dav.riegel@gmail.com)
 [<img align="left" alt="bumothekid#6531" width="26px" src="./img/discord.svg" style="padding-right:10px;" />](https://discord.com/users/933120109621424180)
-[<img align="left" alt="Stack Overflow" height="24px" width="24px" src="./img/stack-overflow.svg" style="padding-right:10px;" />](https://stackoverflow.com/users/17286142/bumo)
+[<img align="left" alt="Stack Overflow" height="26px" width="26px" src="./img/stack-overflow.svg" style="padding-right:10px;" />](https://stackoverflow.com/users/17286142/bumo)
 
 <br>
 
