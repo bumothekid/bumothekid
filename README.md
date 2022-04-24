@@ -3,8 +3,7 @@
 <h2>📩 Connect with me via: </h2>
 
 [<img align="left" alt="bumothekid#6531" width="26px" src="./img/discord.svg" style="padding-right:10px;" />](https://discord.com/users/933120109621424180)
-[<img align="left" alt="Stack Overflow" width="26px" src="./img/stackoverflow.svg" style="padding-right:10px;" />](https://stackoverflow.com/users/17286142/bumo)
-[<img align="left" alt="Stack Overflow" width="26px" src="./img/stack-overflow.svg" style="padding-right:10px;" />]()
+[<img align="left" alt="Stack Overflow" width="23px" src="./img/stack-overflow.svg" style="padding-right:10px;" />]()
 
 <br>
 
