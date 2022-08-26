@@ -34,9 +34,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Swift   3 mins          █████████████████████▒░░░   85.43 %
-Cocoa   0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
-XML     0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
