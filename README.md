@@ -2,10 +2,10 @@
 
 <h2>📩 Connect with me via: </h2>
 
-<!--[<img align="left" alt="bumothekid#6531" width="26px" src="./img/mail.svg" style="padding-right:10px;" />](mailto:dav.riegel@gmail.com)-->
-[<img align="left" alt="bumothekid#6531" width="26px" src="./img/discord.svg" style="padding-right:10px;" />](https://discord.com/users/933120109621424180)
-[<img align="left" alt="Stack Overflow" height="26px" width="26px" src="./img/stack-overflow.svg" style="padding-right:10px;" />](https://stackoverflow.com/users/17286142/bumo)
-[<img align="left" alt="Twitter" width="32px" src="./img/twitter.svg" style="padding-right:10px;" />](https://twitter.com/bumothekid)
+[<img align="left" alt="Email Icon Button" width="26px" src="./img/mail.svg" style="padding-right:10px;" />](mailto:dav.riegel@gmail.com)
+[<img align="left" alt="Discord Icon Button" width="26px" src="./img/discord.svg" style="padding-right:10px;" />](https://discord.com/users/933120109621424180)
+[<img align="left" alt="Stack Overflow Icon Button" height="26px" width="26px" src="./img/stack-overflow.svg" style="padding-right:10px;" />](https://stackoverflow.com/users/17286142/david)
+[<img align="left" alt="Twitter Icon Button" width="32px" src="./img/twitter.svg" style="padding-right:10px;" />](https://twitter.com/bumothekid)
 
 <br>
 
