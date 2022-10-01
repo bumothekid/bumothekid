@@ -22,8 +22,8 @@ var UserProfile: [String: Any] = [
     },
     {
         "name": "Cursy",
-        "description": "Discord bot that uses SQLite as database with a lot of features 
-        For example: Level System, Ticket System, Giveaway System and Reaction Roles.",
+        "description": "Discord bot that uses SQLite as database with a lot of features. 
+                        Examples: Level System, Ticket System, Giveaway System and Reaction Roles.",
         "language": "Python",
         "link": "https://github.com/bumothekid/Cursy"
     },
