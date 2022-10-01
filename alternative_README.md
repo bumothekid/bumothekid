@@ -46,6 +46,8 @@ var UserProfile: [String: Any] = [
 
 [<img align="left" alt="Email Icon Button" width="34px" src="./img/mail.svg" style="padding-right:10px;" />](mailto:dav.riegel@gmail.com)
 
+[<img align="left" alt="Stack Overflow Icon Button" height="26px" width="26px" src="./img/stack-overflow.svg" style="padding-right:10px;" />](https://stackoverflow.com/users/17286142/david)
+
 [<img align="left" alt="Instagram Icon Button" width="26px" src="./img/instagram.svg" style="padding-right:10px;" />](https://instagram.com/davjusvibin)
 
 [<img align="left" alt="Twitter Icon Button" width="35px" src="./img/twitter.svg" style="padding-right:10px;" />](https://twitter.com/bumothekid)
