@@ -34,12 +34,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Markdown     1 hr 15 mins    ██████████████████████░░░   87.67 %
-Bash         7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 %
-XML          2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
-Git Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
-Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
