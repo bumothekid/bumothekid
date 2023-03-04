@@ -1,4 +1,4 @@
-<h1>👋🏻 Hi there, im Bumo</h1>
+<h1>👋🏻 Hi there, I'm David</h1>
 
 <h2>📩 Connect with me via: </h2>
 
