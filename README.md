@@ -17,7 +17,7 @@ I am a hobby developer from Germany.
 🌐 Languages : English, German.
 ```
 
-### My stack and tools :
+### 🛠️ My stack and tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
