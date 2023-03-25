@@ -24,7 +24,7 @@ I am a hobby developer from Germany.
   <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg"  title="XCode" alt="XCode" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" title="Terminal" alt="Terminal" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swifts-original.svg"  title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg"  title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg"  title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg"  title="XCode" alt="XCode" width="40" height="40"/>&nbsp;
@@ -46,7 +46,7 @@ I am a hobby developer from Germany.
         <img src="./img/twitter.svg", title="Twitter", alt="Twitter" width="40" height="40"/>&nbsp;
     </a>
     <a href="https://twitter.com/davidjusvibin">
-        <img src="https://github.com/devicons/devincon/blob/master/icons/twitter/twitter-original.svg", title="Twitter", alt="Twitter" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg", title="Twitter", alt="Twitter" width="40" height="40"/>&nbsp;
     </a>
 </div>
 
