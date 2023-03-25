@@ -43,9 +43,6 @@ I am a hobby developer from Germany.
     <a href="https://twitter.com/davidjusvibin">
         <img src="./img/twitter.svg", title="Twitter", alt="Twitter" width="45" height="45"/>&nbsp;
     </a>
-    <a href="https://twitter.com/davidjusvibin">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg", title="Twitter", alt="Twitter" width="40" height="40"/>&nbsp;
-    </a>
 </div>
 
 ### 📊 Weekly development breakdown :
