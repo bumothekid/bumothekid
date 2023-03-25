@@ -27,8 +27,6 @@ I am a hobby developer from Germany.
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg"  title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg"  title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg"  title="XCode" alt="XCode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg"  title="XCode" alt="XCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github"  alt="Github" width="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
@@ -37,13 +35,13 @@ I am a hobby developer from Germany.
 
 <div>
     <a href="mailto: dav.riegel@gmail.com">
-        <img src="" title="Email", alt="Email" width="40" height="40"/>&nbsp;
+        <img src="./img/gmail.svg" title="Email", alt="Email" width="35" height="35"/>&nbsp;
     </a>
     <a href="https://stackoverflow.com/users/17286142/david">
         <img src="./img/stack-overflow.svg", title="Stackoverflow", alt="Stackoverflow" width="35" height="35"/>&nbsp;
     </a>
     <a href="https://twitter.com/davidjusvibin">
-        <img src="./img/twitter.svg", title="Twitter", alt="Twitter" width="40" height="40"/>&nbsp;
+        <img src="./img/twitter.svg", title="Twitter", alt="Twitter" width="45" height="45"/>&nbsp;
     </a>
     <a href="https://twitter.com/davidjusvibin">
         <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg", title="Twitter", alt="Twitter" width="40" height="40"/>&nbsp;
