@@ -1,36 +1,56 @@
-<h1>👋🏻 Hi there, I'm David</h1>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
+  
+  <h1>
+    Hey there, I'm David!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+  </div>
+  
+  
+### 👨🏻‍💻 About Me :
+I am a hobby developer from Germany.
 
-<h2>📩 Connect with me via: </h2>
+- I am a German student with a passion for coding, interested in Python, Go, and mobile development using Swift for iOS, and looking forward to studying software development in the future.
 
-[<img align="left" alt="Email Icon Button" width="33px" src="./img/mail.svg" style="padding-right:10px;" />](mailto:dav.riegel@gmail.com)
-[<img align="left" alt="Discord Icon Button" width="28px" src="./img/discord.svg" style="padding-right:10px;" />](https://discord.com/users/933120109621424180)
-[<img align="left" alt="Stack Overflow Icon Button" height="26px" width="26px" src="./img/stack-overflow.svg" style="padding-right:10px;" />](https://stackoverflow.com/users/17286142/david)
-[<img align="left" alt="Twitter Icon Button" width="35px" src="./img/twitter.svg" style="padding-right:10px;" />](https://twitter.com/davidjusvibin)
+```
+🌐 Languages : English, German.
+```
 
-<br>
+### My stack and tools :
 
-<h2>🧰 Languages and Tools I use: </h2>
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg"  title="XCode" alt="XCode" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" title="Terminal" alt="Terminal" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swifts-original.svg"  title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg"  title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg"  title="XCode" alt="XCode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg"  title="XCode" alt="XCode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github"  alt="Github" width="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+</div>
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](https://code.visualstudio.com)
-[<img align="left" alt="Xcode" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" style="padding-right:10px;" />](https://developer.apple.com/xcode/)
-[<img align="left" alt="macOS" width="26px" src="./img/finder.svg" style="padding-right:10px;" />](https://www.apple.com/de/macos/monterey/)
-[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />](https://www.python.org)
-[<img align="left" alt="Swift" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" style="padding-right:10px;" />](https://developer.apple.com/swift/)
-<!--
-[<img align="left" alt="Go" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" style="padding-right:10px;" />](https://go.dev)
--->
-[<img align="left" alt="SQLite" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" style="padding-right:10px;" />](https://www.sqlite.org/index.html)
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://github.com/bumothekid#gh-dark-mode-only)
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://github.com/bumothekid#gh-light-mode-only)
-<!--
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://github.com/bumothekid#gh-light-mode-only)
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://github.com/bumothekid#gh-dark-mode-only)
--->
-[<img align="left" alt="Terminal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" />]()
+### 📫 How to reach me :
 
-<br>
+<div>
+    <a href="mailto: dav.riegel@gmail.com">
+        <img src="" title="Email", alt="Email" width="40" height="40"/>&nbsp;
+    </a>
+    <a href="https://stackoverflow.com/users/17286142/david">
+        <img src="./img/stack-overflow.svg", title="Stackoverflow", alt="Stackoverflow" width="35" height="35"/>&nbsp;
+    </a>
+    <a href="https://twitter.com/davidjusvibin">
+        <img src="./img/twitter.svg", title="Twitter", alt="Twitter" width="40" height="40"/>&nbsp;
+    </a>
+    <a href="https://twitter.com/davidjusvibin">
+        <img src="https://github.com/devicons/devincon/blob/master/icons/twitter/twitter-original.svg", title="Twitter", alt="Twitter" width="40" height="40"/>&nbsp;
+    </a>
+</div>
 
-<h2>📊 Weekly development breakdown: </h2>
+### 📊 Weekly development breakdown :
 <!--START_SECTION:waka-->
 
 ```text
@@ -43,14 +63,9 @@ Other        3 mins          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<h2>⚡️ Github Stats: </h2>
-  
-<img align="left" alt="bumothekid's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bumothekid&count_private=true&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25"/>
+---
 
 <!--
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="bumothekid's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bumothekid&count_private=true&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25"/>nm
-
-</details>-->
+<div align=center> 
+         <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=32&center=true&vCenter=true&width=600&height=50&lines=Fun+Facts:+;I+am+half+bulgarian;I+am+1,70m;I+started+programming+at+12+years;" alt="Headline" /> 
+     </div>-->
