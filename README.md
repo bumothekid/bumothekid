@@ -20,7 +20,9 @@ I am a hobby developer from Germany.
 ### 🛠️ My stack and tools :
 
 <div>
-  <img src="./img/macOS.svg" title="macOS" alt="macOS" width="40" height="40", href="https://www.apple.com/de/macos/"/>&nbsp;
+  <a href="https://www.apple.com/macos/">
+    <img src="./img/macOS.svg" title="macOS" alt="macOS" width="40" height="40"/>&nbsp;
+  </a>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40", href="https://code.visualstudio.com"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg"  title="XCode" alt="XCode" width="40" height="40" href="https://developer.apple.com/xcode/"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github"  alt="Github" width="40"/>&nbsp;
