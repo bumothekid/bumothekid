@@ -66,11 +66,7 @@ I am a hobby developer from Germany.
 <!--START_SECTION:waka-->
 
 ```txt
-HTML     35 mins         ███████████░░░░░░░░░░░░░░   44.61 %
-CSS      24 mins         ███████▓░░░░░░░░░░░░░░░░░   30.97 %
-Python   19 mins         ██████░░░░░░░░░░░░░░░░░░░   24.29 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-Ezhil    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
