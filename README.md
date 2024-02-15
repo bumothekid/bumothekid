@@ -66,11 +66,11 @@ I am a hobby developer from Germany.
 <!--START_SECTION:waka-->
 
 ```txt
-Python       3 hrs 35 mins   █████████▓░░░░░░░░░░░░░░░   38.71 %
-HTML         2 hrs 39 mins   ███████▒░░░░░░░░░░░░░░░░░   28.67 %
-CSS          2 hrs 7 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.86 %
-Markdown     39 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.02 %
-JSON         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+CSS          2 hrs 7 mins    ███████████░░░░░░░░░░░░░░   44.04 %
+HTML         1 hr 20 mins    ███████░░░░░░░░░░░░░░░░░░   27.96 %
+Markdown     39 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.56 %
+Python       33 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.60 %
+Bash         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
 ```
 
 <!--END_SECTION:waka-->
