@@ -66,9 +66,8 @@ I am a hobby developer from Germany.
 <!--START_SECTION:waka-->
 
 ```txt
-Python   2 hrs 3 mins    █████████████████████████   99.62 %
-JSON     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Python   48 mins         ████████████████████████▓   99.07 %
+JSON     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
 ```
 
 <!--END_SECTION:waka-->
