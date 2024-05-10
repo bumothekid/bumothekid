@@ -66,10 +66,10 @@ I am a hobby developer from Germany.
 <!--START_SECTION:waka-->
 
 ```txt
-Swift    1 hr 20 mins    ███████████████░░░░░░░░░░   59.35 %
-Python   54 mins         ██████████░░░░░░░░░░░░░░░   40.18 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-XML      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Swift    5 hrs 26 mins   █████████████████████░░░░   84.42 %
+Python   54 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.03 %
+Other    5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+XML      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
