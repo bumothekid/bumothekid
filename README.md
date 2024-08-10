@@ -66,11 +66,11 @@ I am a hobby developer from Germany.
 <!--START_SECTION:waka-->
 
 ```txt
-Python       13 hrs 6 mins   ███████████████████████░░   92.30 %
-Swift        48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
+Python       13 hrs 48 mins  ████████████████████████▒   97.27 %
+Other        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
 Bash         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
 Git Config   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Text         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->
