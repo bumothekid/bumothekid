@@ -7,15 +7,8 @@
   </h1>
   </div>
   
-  
-### 👨🏻‍💻 About Me :
-I am a hobby developer from Germany.
+I'm a 17-year-old student from Germany who started coding at the age of 12. I primarily work with Python, Go, and Swift, and my goal is to become a professional software developer. I'm always open to collaboration opportunities.
 
-- I am a German student with a passion for coding, interested in Python, Go, and mobile development using Swift for iOS, and looking forward to studying software development in the future.
-
-```
-🌐 Languages: English, German.
-```
 
 ### 🛠️ My stack and tools :
 
@@ -57,8 +50,8 @@ I am a hobby developer from Germany.
     <a href="https://stackoverflow.com/users/17286142/david">
         <img src="./img/stack-overflow.svg", title="Stackoverflow", alt="Stackoverflow" width="35" height="35"/>&nbsp;
     </a>
-    <a href="https://twitter.com/davidjusvibin">
-        <img src="./img/twitter.svg", title="Twitter", alt="Twitter" width="45" height="45"/>&nbsp;
+    <a href="https://linkedin.com/in/david-riegel-665675328">
+        <img src="./img/linkedin.svg", title="LinkedIn", alt="LinkedIn" width="35" height="35"/>&nbsp;
     </a>
 </div>
 
