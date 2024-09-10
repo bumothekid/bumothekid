@@ -14,7 +14,7 @@ I am a hobby developer from Germany.
 - I am a German student with a passion for coding, interested in Python, Go, and mobile development using Swift for iOS, and looking forward to studying software development in the future.
 
 ```
-🌐 Languages : English, German.
+🌐 Languages: English, German.
 ```
 
 ### 🛠️ My stack and tools :
