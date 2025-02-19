@@ -67,8 +67,8 @@ I'm a 17-year-old student from Germany who started coding at the age of 12. I pr
 <!--START_SECTION:waka-->
 
 ```txt
-TeX      2 hrs 13 mins   ████████████████████████▒   97.86 %
-BibTeX   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
+TeX      3 hrs 52 mins   ████████████████████████▓   98.76 %
+BibTeX   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
 Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
