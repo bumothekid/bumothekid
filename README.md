@@ -67,9 +67,11 @@ I'm a 17-year-old student from Germany who started coding at the age of 12. I pr
 <!--START_SECTION:waka-->
 
 ```txt
-HTML         16 mins         ████████████████████████▓   98.31 %
-Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+TeX          23 mins         ██████████████░░░░░░░░░░░   55.37 %
+HTML         16 mins         █████████▒░░░░░░░░░░░░░░░   37.71 %
+JavaScript   2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
