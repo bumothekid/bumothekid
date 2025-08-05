@@ -7,7 +7,7 @@
   </h1>
   </div>
   
-I'm a 17-year-old student from Germany who started coding at the age of 12. I primarily work with Python, Go, and Swift, and my goal is to become a professional software developer. I'm always open to collaboration opportunities.
+I'm a 18-year-old student from Germany who started coding at the age of 12. I primarily work with Python, Go, and Swift, and my goal is to become a professional software developer. I'm always open to collaboration opportunities.
 
 
 ### 🛠️ My stack and tools :
@@ -31,9 +31,6 @@ I'm a 17-year-old student from Germany who started coding at the age of 12. I pr
   <a href="https://firebase.google.com/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg"  title="Firebase" alt="Firebase" width="40" height="40"/>
   </a>
-  <a href="https://www.apple.com/macos/">
-    <img src="./img/macOS.svg" title="macOS" alt="macOS" width="40" height="40"/>&nbsp;
-  </a>
   <a href="https://debian.org">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   </a>
@@ -43,7 +40,6 @@ I'm a 17-year-old student from Germany who started coding at the age of 12. I pr
   <a href="https://developer.apple.com/xcode/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg"  title="XCode" alt="XCode" width="40" height="40"/>&nbsp;
   </a>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github"  alt="Github" width="40"/>&nbsp;
   <a href="https://git-scm.com">
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   </a>
