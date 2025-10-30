@@ -63,9 +63,9 @@ I'm a 18-year-old student from Germany who started coding at the age of 12. I pr
 <!--START_SECTION:waka-->
 
 ```txt
-Other      2 hrs 45 mins   █████████████▓░░░░░░░░░░░   54.99 %
-Swift      2 hrs 9 mins    ██████████▓░░░░░░░░░░░░░░   43.05 %
-Markdown   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
+Swift      2 hrs 41 mins   ████████████████▓░░░░░░░░   66.45 %
+Other      1 hr 15 mins    ███████▓░░░░░░░░░░░░░░░░░   31.13 %
+Markdown   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
 ```
 
 <!--END_SECTION:waka-->
