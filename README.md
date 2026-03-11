@@ -14,7 +14,7 @@ You vs You<br>
 Always strive for improvement.
 </p>
 
-[Portfolio](https://david.clothing-booth.com)
+[Portfolio](https://davidriegel.dev)
 
 <hr />
 <h3>Contact me at:</h3>
